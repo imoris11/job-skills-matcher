@@ -1,0 +1,24 @@
+# API Keys and Environment
+background.js.local
+.env
+.env.local
+.env.*.local
+
+# Chrome Extension
+*.pem
+*.crx
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
